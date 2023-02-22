@@ -3,5 +3,5 @@
     "targetRepoPath": "https://github.com/SimonFaure/taghunter",
     "sourceRepoPath": ".",
      "allowedPaths": ["laraupdater.json"],
-    "ignoredPaths": ["*.tex"]
+   "ignoredPaths": ["apps/service1/.env", "apps/optional-secure-service2", "gitexporter.config.json"]
 }
