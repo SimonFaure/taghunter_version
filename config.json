@@ -1,0 +1,7 @@
+{
+    "forceReCreateRepo": true,
+    "targetRepoPath": "https://github.com/SimonFaure/taghunter",
+    "sourceRepoPath": ".",
+     "allowedPaths": ["laraupdater.json"],
+    "ignoredPaths": ["*.tex"]
+}
